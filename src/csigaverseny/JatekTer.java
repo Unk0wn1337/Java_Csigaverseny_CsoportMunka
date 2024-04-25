@@ -1,0 +1,7 @@
+
+package csigaverseny;
+
+
+class JatekTer {
+    
+}
